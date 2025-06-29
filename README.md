@@ -14,7 +14,7 @@ I'm a curious teenager who loves technology and solving problems with code. I sp
 
 ---
 
-## 🛠 Skills (مهارت‌ها)
+## 🛠 Skills
 
 - 💻 Languages: Java, Python, C#, JavaScript, CSS  
 - 🛡 Ethical Hacking Basics  
@@ -23,7 +23,7 @@ I'm a curious teenager who loves technology and solving problems with code. I sp
 
 ---
 
-## 🚀 What I'm Learning Now (در حال یادگیری)
+## 🚀 What I'm Learning Now
 
 - Advanced Java (Spring Boot Framework)  
 - Frontend UI design (Flat & modern)  
@@ -32,7 +32,7 @@ I'm a curious teenager who loves technology and solving problems with code. I sp
 
 ---
 
-## 📬 Contact Me (ارتباط با من)
+## 📬 Contact Me
 
 If you'd like to collaborate or just say hi:  
 
@@ -44,7 +44,7 @@ If you'd like to collaborate or just say hi:
 
 ---
 
-## 🧭 Goals for 2025 (اهداف من برای سال ۲۰۲۵)
+## 🧭 Goals for 2025
 
 - ✅ Become a better programmer  
 - ✅ Start an internship in a company  
