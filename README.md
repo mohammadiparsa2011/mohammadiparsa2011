@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**mohammadiparsa2011/mohammadiparsa2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Parsa
 
-Here are some ideas to get you started:
+🎓 14-year-old self-taught developer from Iran  
+💻 Passionate about coding, learning, and building useful tools  
+🔐 Exploring ethical hacking, Java backend, and modern frontend  
+🌱 Always learning. Always experimenting. Always improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a curious teenager who loves technology and solving problems with code. I spend time learning Java, Python, C#, JavaScript, and CSS. I'm also diving into ethical hacking and cybersecurity. Every day is a new opportunity to learn something exciting.
+
+---
+
+## 🛠 Skills (مهارت‌ها)
+
+- 💻 Languages: Java, Python, C#, JavaScript, CSS  
+- 🛡 Ethical Hacking Basics  
+- 🗄 Databases: MySQL  
+- 🛠 Tools: Git, GitHub, VS Code, IntelliJ
+
+---
+
+## 🚀 What I'm Learning Now (در حال یادگیری)
+
+- Advanced Java (Spring Boot Framework)  
+- Frontend UI design (Flat & modern)  
+- Cybersecurity and ethical hacking (Beginner level)  
+- Markdown and GitHub best practices
+
+---
+
+## 📬 Contact Me (ارتباط با من)
+
+If you'd like to collaborate or just say hi:  
+
+- 📧 Email: mohammadiparsa2011@gmail.com  
+- 🌐 Website: [mohammadiparsa2011.github.io](https://mohammadiparsa2011.github.io) *(if you have)*  
+- 📸 Instagram: [mohammadiparsa1102](https://instagram.com/mohammadiparsa1102)  
+- 💬 Telegram: [@mohammadiparsa2011](https://t.me/mohammadiparsa2011)  
+- 🔗 LinkedIn: [mohammadiparsa2011](https://linkedin.com/in/mohammadiparsa2011)
+
+---
+
+## 🧭 Goals for 2025 (اهداف من برای سال ۲۰۲۵)
+
+- ✅ Become a better programmer  
+- ✅ Start an internship in a company  
+- ✅ Improve my skills in coding and cybersecurity  
+- ✅ Build projects that help others
+
+---
+
+🎉 Thanks for visiting my profile!  
+Let's build something awesome together 💻🚀
