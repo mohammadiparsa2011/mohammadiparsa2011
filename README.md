@@ -37,7 +37,6 @@ I'm a curious teenager who loves technology and solving problems with code. I sp
 If you'd like to collaborate or just say hi:  
 
 - 📧 Email: mohammadiparsa2011@gmail.com  
-- 🌐 Website: [mohammadiparsa2011.github.io](https://mohammadiparsa2011.github.io) *(if you have)*  
 - 📸 Instagram: [mohammadiparsa1102](https://instagram.com/mohammadiparsa1102)  
 - 💬 Telegram: [@mohammadiparsa2011](https://t.me/mohammadiparsa2011)  
 - 🔗 LinkedIn: [mohammadiparsa2011](https://linkedin.com/in/mohammadiparsa2011)
